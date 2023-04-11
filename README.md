@@ -1,3 +1,4 @@
+![alt text](/img/logo.png)
 # TSec
 TSec is a small group of programmers with only one goal to reach
 it's to make sure that security in this whole world goes good and
